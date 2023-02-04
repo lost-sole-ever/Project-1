@@ -10,7 +10,7 @@ body
 
 h1{
     color: #66bfbf;
-    font-size: 5.5rem;
+    font-size: 3.625rem;
     margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
 }
@@ -102,14 +102,10 @@ a:hover{
     left: 250px;
     bottom: 300px;
 }
-.mountain{
-    margin: auto
-    width: 90%;
-}
 
 .code-img{
-    width: 100%;
-    */ float: left; */
+    width: 25%;
+    float: left;
     margin-right: 30px;
 }
 
@@ -128,7 +124,6 @@ a:hover{
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    width: 25%;
   }
   
   .btn:hover {
