@@ -10,7 +10,7 @@ body
 
 h1{
     color: #66bfbf;
-    font-size: 1rem;
+    font-size: 3.5rem;
     margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
 }
@@ -68,7 +68,7 @@ a:hover{
 .skill-row{
     width: 50%;
     margin: 100px auto 100px auto;
-    text-align: left;
+    /* text-align: left; */
 
 }
 .pro {
@@ -104,11 +104,11 @@ a:hover{
 }
 .mountain{
     margin: auto
-    width: 60%;
+    width: 120%;
 }
 
 .code-img{
-    width: 50%;
+    width: 100%;
     float: left;
     margin-right: 30px;
 }
